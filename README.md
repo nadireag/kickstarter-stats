@@ -1,2 +1,2 @@
 # kickstarter-stats
-Kickstarter Stats - HW1
+Week 1 Homework - Kickstarter Stats
